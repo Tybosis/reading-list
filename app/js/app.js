@@ -33,6 +33,22 @@
     }
   })
 
+  .directive('bookEditForm', function(){
+    return {
+      restrict: 'E',
+      templateUrl: 'partials/book-edit-form.html',
+      replace: true,
+      controller: function() {
+        this.showEditForm = false;
+        this.edit_book = function(form, book) {
+          form.$setPristine();
+          this.showEditForm = false;
+        }
+      },
+      controllerAs: "bookEditFormCtrl"
+    }
+  })
+
   .directive('reviewForm', function(){
     return {
       restrict: 'E',
