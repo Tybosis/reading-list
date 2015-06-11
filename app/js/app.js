@@ -7,6 +7,12 @@
     this.books = books;
     this.genres = genres;
     this.showForm = false;
+    this.delete_book = function(book) {
+      if(confirm("Are you sure you want to remove this book?")) {
+        var index = books.map(function(e) { return e.title }).indexOf(book.title);
+        books.splice(index, 1);
+      }
+    }
   })
 
   .directive('bookGenres', function(){
