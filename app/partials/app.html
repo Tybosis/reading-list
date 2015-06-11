@@ -21,10 +21,14 @@
         <book-genres genres="book.genres"></book-genres>
 
         <br \>
+        <div class="container">
+          <button class="btn btn-primary book_buttons" ng-click="readingListCtrl.delete_book(book)">Remove Book</button>
 
-        <button class="btn btn-primary delete" ng-click="readingListCtrl.delete_book(book)">Remove Book</button>
+          <button class="btn btn-primary book_buttons" ng-click="bookEditFormCtrl.showEditForm = !bookEditFormCtrl.showEditForm">{{bookEditFormCtrl.showEditForm ? "Cancel" : "Edit Review"}}</button>
+        </div>
 
-      </div>
+        <book-edit-form ng-show="bookEditFormCtrl.showEditForm"></book-edit-form>
+
     </li>
   </ul>
 </div>
