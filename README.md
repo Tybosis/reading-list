@@ -11,9 +11,9 @@ This project also utilized the [Angular Seed Skeleton](https://github.com/angula
 
 ## ScreenShots
 
-![ScreenShot1](https://www.dropbox.com/s/wnt9c6pzx0cj6uw/Screenshot%202015-06-10%2021.29.39.png?dl=0 =480x)
+![ScreenShot1](https://www.dropbox.com/s/wnt9c6pzx0cj6uw/Screenshot%202015-06-10%2021.29.39.png?dl=0?raw=1 =480x)
 
-1[ScreenShot2](https://www.dropbox.com/s/ncr0o6ggbddyixr/Screenshot%202015-06-10%2021.29.20.png?dl=0 =480x)
+1[ScreenShot2](https://www.dropbox.com/s/ncr0o6ggbddyixr/Screenshot%202015-06-10%2021.29.20.png?dl=0?raw=1 =480x)
 
 ## TODO
 
