@@ -162,3 +162,7 @@ div.genre {
     margin-right: 0;
   }
 }
+
+.delete {
+  margin-top: 10px;
+}
