@@ -163,6 +163,6 @@ div.genre {
   }
 }
 
-.delete {
-  margin-top: 10px;
+.book_buttons {
+  margin: 10px 0 10px 0;
 }
