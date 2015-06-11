@@ -12,10 +12,10 @@ This project also utilized the [Angular Seed Skeleton](https://github.com/angula
 ## ScreenShots
 
 #### New Book Form
-![ScreenShot1](https://cloud.githubusercontent.com/assets/6867966/8100006/ccced51a-0fba-11e5-85b3-ea34f14879e7.png =480x)
+![ScreenShot1](/app/Screenshot1.png?raw=true =480x)
 
 #### List of Added Books
-![ScreenShot2](https://cloud.githubusercontent.com/assets/6867966/8100011/d0970c62-0fba-11e5-9c28-19ddd02d1f51.png = 480x)
+![ScreenShot2](/app/Screenshot2.png?raw=true =480x)
 
 ## TODO
 
