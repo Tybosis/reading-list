@@ -9,7 +9,13 @@ Soup to Bits episode on [AngularJS](https://www.codeschool.com/screencasts/soup-
 
 This project also utilized the [Angular Seed Skeleton](https://github.com/angular/angular-seed) for the initial layout.
 
-# TODO
+## ScreenShots
+
+![ScreenShot1](https://www.dropbox.com/s/wnt9c6pzx0cj6uw/Screenshot%202015-06-10%2021.29.39.png?dl=0 =480x)
+
+1[ScreenShot2](https://www.dropbox.com/s/ncr0o6ggbddyixr/Screenshot%202015-06-10%2021.29.20.png?dl=0 =480x)
+
+## TODO
 
   + Allow users to Delete Books
   + Allow users to Edit Books
